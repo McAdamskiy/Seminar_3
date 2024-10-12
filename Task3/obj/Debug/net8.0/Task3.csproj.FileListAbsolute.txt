@@ -1,0 +1,14 @@
+E:\Marco\C_Sharp_course\Semenar\Seminar3\Task3\bin\Debug\net8.0\Task3.exe
+E:\Marco\C_Sharp_course\Semenar\Seminar3\Task3\bin\Debug\net8.0\Task3.deps.json
+E:\Marco\C_Sharp_course\Semenar\Seminar3\Task3\bin\Debug\net8.0\Task3.runtimeconfig.json
+E:\Marco\C_Sharp_course\Semenar\Seminar3\Task3\bin\Debug\net8.0\Task3.dll
+E:\Marco\C_Sharp_course\Semenar\Seminar3\Task3\bin\Debug\net8.0\Task3.pdb
+E:\Marco\C_Sharp_course\Semenar\Seminar3\Task3\obj\Debug\net8.0\Task3.GeneratedMSBuildEditorConfig.editorconfig
+E:\Marco\C_Sharp_course\Semenar\Seminar3\Task3\obj\Debug\net8.0\Task3.AssemblyInfoInputs.cache
+E:\Marco\C_Sharp_course\Semenar\Seminar3\Task3\obj\Debug\net8.0\Task3.AssemblyInfo.cs
+E:\Marco\C_Sharp_course\Semenar\Seminar3\Task3\obj\Debug\net8.0\Task3.csproj.CoreCompileInputs.cache
+E:\Marco\C_Sharp_course\Semenar\Seminar3\Task3\obj\Debug\net8.0\Task3.dll
+E:\Marco\C_Sharp_course\Semenar\Seminar3\Task3\obj\Debug\net8.0\refint\Task3.dll
+E:\Marco\C_Sharp_course\Semenar\Seminar3\Task3\obj\Debug\net8.0\Task3.pdb
+E:\Marco\C_Sharp_course\Semenar\Seminar3\Task3\obj\Debug\net8.0\Task3.genruntimeconfig.cache
+E:\Marco\C_Sharp_course\Semenar\Seminar3\Task3\obj\Debug\net8.0\ref\Task3.dll
